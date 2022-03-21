@@ -1,4 +1,4 @@
-package br.com.springboot.vurso_jdev;
+package br.com.springboot.curso_jdev;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
